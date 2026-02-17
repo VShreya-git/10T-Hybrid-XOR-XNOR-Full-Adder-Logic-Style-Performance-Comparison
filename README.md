@@ -24,6 +24,8 @@ Complementary pull-up/pull-down networks
 
 •	Larger area and higher intrinsic RC delay
 
+![Schematic-representation-of-Standard-FA](https://github.com/user-attachments/assets/31fc8919-0736-4b09-a373-b73c5ed17e87)
+
 #### 2. PTL-Based 10T Hybrid (Design 1)
 
 This design leverages Pass Transistor Logic to minimize transistor count and internal node capacitance.
@@ -40,6 +42,8 @@ This design leverages Pass Transistor Logic to minimize transistor count and int
 
 PTL prioritizes speed and area efficiency at the expense of output robustness.
 
+<img width="471" height="438" alt="Screenshot 2026-02-17 220121" src="https://github.com/user-attachments/assets/6a95141b-8e45-4717-9c56-9d950d7ed04f" />
+
 #### 3. TG-Based 10T Hybrid (Design 2)
 
 This implementation incorporates Transmission Gates to mitigate PTL voltage loss while retaining reduced complexity.
@@ -53,6 +57,8 @@ This implementation incorporates Transmission Gates to mitigate PTL voltage loss
 •	Slightly increased transistor activity vs PTL
 
 TG logic offers a compromise between performance and reliability.
+
+<img width="424" height="389" alt="Screenshot 2026-02-17 220132" src="https://github.com/user-attachments/assets/d22f5a09-499d-4f25-a7aa-377fddc51a98" />
 
 ### III) Performance Insights
 
