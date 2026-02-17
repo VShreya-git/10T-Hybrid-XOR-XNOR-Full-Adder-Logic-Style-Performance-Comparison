@@ -64,12 +64,13 @@ TG logic offers a compromise between performance and reliability.
 
 From the average powers, the following inferences can be
 made:
- 28T full adder consumes the most power among the three designs.
- 28 T F.A. takes up the most power, taking close to 13.25 μW as it has a greater number of transistors compared to design 1 & 2 so the RC delay is much higher.
- Between Design 1 & 2, Design 2 takes up more power as it uses both NMOS and PMOS transistors and since PMOS is more resistive than NMOS it slows down the charging thus leading to more power and delay while Design 1 uses PTL logic for calculating sum which uses only NMOS so RC delay is lesser
- But Design 2 and 28 T produces a much cleaner output than Design 1 since it uses TG and static CMOS methods respectively.
+•	28T full adder consumes the most power among the three designs.
+•	28 T F.A. takes up the most power, taking close to 13.25 μW as it has a greater number of transistors compared to design 1 & 2 so the RC delay is much higher.
+•	Between Design 1 & 2, Design 2 takes up more power as it uses both NMOS and PMOS transistors and since PMOS is more resistive than NMOS it slows down the charging thus leading to more power and delay while Design 1 uses PTL logic for calculating sum which uses only NMOS so RC delay is lesser
+•	But Design 2 and 28 T produces a much cleaner output than Design 1 since it uses TG and static CMOS methods respectively.
 
 From the delays calculated, the following inferences can be
 made:
- The average delays in sum of design 1 and 2 are significantly lesser than the 28T full adder, proving its high-speed characteristics.
- Thus, depending on the requirement of the project, an appropriate choice can be made between these full adder designs.
+•	The average delays in sum of design 1 and 2 are significantly lesser than the 28T full adder, proving its high-speed characteristics.
+•	Thus, depending on the requirement of the project, an appropriate choice can be made between these full adder designs.
+
