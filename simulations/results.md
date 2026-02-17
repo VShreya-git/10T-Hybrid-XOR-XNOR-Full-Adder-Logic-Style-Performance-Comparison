@@ -1,4 +1,4 @@
-## 1. Table 1 : Design 2 SUM Delays
+## 1. Table 1 : Average Powers
 <img width="255" height="67" alt="Screenshot 2026-02-17 220857" src="https://github.com/user-attachments/assets/10237619-476e-4ef1-9c49-0a8bb80fee70" />
 
 ## 2. Table 2 : Design 2 CARRY Delays
