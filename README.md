@@ -1,6 +1,6 @@
 # 10T-Hybrid-XOR-XNOR-Full-Adder-Logic-Style-Performance-Comparison
 
-### Project Overview
+### I) Project Overview
 
 This work investigates transistor-level optimization of full adder architectures using 10-transistor (10T) hybrid XOR–XNOR logic in 180nm CMOS technology.
 
@@ -8,7 +8,7 @@ Two reduced-transistor implementations were developed and benchmarked against a 
 
 The focus is on delay, power, and logic integrity trade-offs at the device level.
 
-### Design Philosophy
+### II) Design Philosophy
 
 Rather than optimizing at the gate level, this project targets logic-style selection as a performance variable.
 
@@ -54,7 +54,7 @@ This implementation incorporates Transmission Gates to mitigate PTL voltage loss
 
 TG logic offers a compromise between performance and reliability.
 
-### Performance Insights
+### III) Performance Insights
 
 Simulation results under identical input stimulus reveal:
 
