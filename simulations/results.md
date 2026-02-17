@@ -1,5 +1,5 @@
 ## 1. Table 1 : Average Powers
-<img width="255" height="67" alt="Screenshot 2026-02-17 220857" src="https://github.com/user-attachments/assets/10237619-476e-4ef1-9c49-0a8bb80fee70" />
+<img width="489" height="124" alt="Screenshot 2026-02-17 222001" src="https://github.com/user-attachments/assets/27b4dd26-9e5f-4969-b19a-e67863736947" />
 
 ## 2. Table 2 : 28T F.A CARRY Delays
 <img width="229" height="142" alt="Screenshot 2026-02-17 220831" src="https://github.com/user-attachments/assets/b4d464ed-6dcf-43fa-86a7-0df244121b28" />
