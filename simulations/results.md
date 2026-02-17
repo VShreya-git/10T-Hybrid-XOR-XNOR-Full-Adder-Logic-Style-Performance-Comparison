@@ -16,5 +16,6 @@
 ## 6. Table 6 : Design 2 CARRY Delays
 <img width="253" height="157" alt="Screenshot 2026-02-17 220751" src="https://github.com/user-attachments/assets/3ae34d98-f34d-4d70-9ec6-91c774ac034c" />
 
-## 7. Table 7 : Design 1 SUM Delays
+## 7. Table 7 : Design 2 SUM Delays
 <img width="286" height="148" alt="Screenshot 2026-02-17 220741" src="https://github.com/user-attachments/assets/c5780879-f225-46dc-b55e-8e5921cafa56" />
+
