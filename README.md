@@ -12,7 +12,7 @@ The focus is on delay, power, and logic integrity trade-offs at the device level
 
 Rather than optimizing at the gate level, this project targets logic-style selection as a performance variable.
 
-##### 1. Static CMOS (28T Baseline)
+#### 1. Static CMOS (28T Baseline)
 
 Complementary pull-up/pull-down networks
 
@@ -24,7 +24,7 @@ Complementary pull-up/pull-down networks
 
 •	Larger area and higher intrinsic RC delay
 
-##### 2. PTL-Based 10T Hybrid (Design 1)
+#### 2. PTL-Based 10T Hybrid (Design 1)
 
 This design leverages Pass Transistor Logic to minimize transistor count and internal node capacitance.
 
@@ -40,7 +40,7 @@ This design leverages Pass Transistor Logic to minimize transistor count and int
 
 PTL prioritizes speed and area efficiency at the expense of output robustness.
 
-##### 3. TG-Based 10T Hybrid (Design 2)
+#### 3. TG-Based 10T Hybrid (Design 2)
 
 This implementation incorporates Transmission Gates to mitigate PTL voltage loss while retaining reduced complexity.
 
